@@ -1,4 +1,4 @@
-### Hi there 👋
+### hiya! ☺️
 
 <!--
 **solipsisms/solipsisms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+i have worked with HTML, CSS, Python, Java and i am currently working on the Odin Project to familiarize myself with JavaScript and Ruby on Rails.
+i love coming up with designs in Figma, but i also really love working through difficult problems with algortihms. 
