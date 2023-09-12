@@ -1,19 +1,16 @@
-### hiya! ☺️
+### Hiya! Sophie here.
 
-<!--
-**solipsisms/solipsisms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student specializing in Software Developemnt. While anything technology sends my brain at 100 miles an hour, I find programming the most fascinating. 
 
-Here are some ideas to get you started:
+Languages I'm familiar with:
+- Python
+- Java
+- Javascript
+- C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also familiar with:
+- HTML/CSS
+- SQL
+- ArcGIS Pro
 
-i have worked with HTML, CSS, Python, Java and i am currently working on the Odin Project to familiarize myself with JavaScript and Ruby on Rails.
-i love coming up with designs in Figma, but i also really love working through difficult problems with algortihms. 
+[Avatar: ](https://x.com/siritoriyowai_/status/1698994523278635098?s=46&t=LVDBWRlMVwGyg1cqp38A8Q) [みなはむ](https://x.com/manuhamu?s=21&t=LVDBWRlMVwGyg1cqp38A8Q)
