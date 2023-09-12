@@ -1,6 +1,6 @@
 ### Hiya! Sophie here.
 
-I am a Computer Science student specializing in Software Developemnt. While anything technology sends my brain at 100 miles an hour, I find programming the most fascinating. 
+I am a Computer Science student specializing in Software Development. While anything technology sends my brain at 100 miles an hour, I find programming the most fascinating. 
 
 Languages I'm familiar with:
 - Python
