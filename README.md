@@ -5,12 +5,12 @@ I am a Computer Science student specializing in Software Development. While anyt
 Languages I'm familiar with:
 - Python
 - Java
+- SQL
 - Javascript
 - C
 
 I am also familiar with:
 - HTML/CSS
-- SQL
 - ArcGIS Pro
 
 [Avatar: ](https://x.com/siritoriyowai_/status/1698994523278635098?s=46&t=LVDBWRlMVwGyg1cqp38A8Q) [みなはむ](https://x.com/manuhamu?s=21&t=LVDBWRlMVwGyg1cqp38A8Q)
