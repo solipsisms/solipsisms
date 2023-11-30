@@ -8,6 +8,7 @@ Languages I am familiar with:
 - SQL
 - Javascript
 - C
+- Assembly
 
 I am also familiar with:
 - UNIX/Linux
