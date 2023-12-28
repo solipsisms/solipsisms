@@ -11,6 +11,7 @@ Languages I am familiar with:
 - Assembly
 
 I am also familiar with:
+- R/RStudio
 - UNIX/Linux
 - HTML
 - CSS
