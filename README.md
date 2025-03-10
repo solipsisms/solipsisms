@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **solipsisms/solipsisms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[custom kizuna generator](https://custom-kizuna-rust.onrender.com): for csc 363, backend written in rust
+
+[profile picture](https://x.com/Siritoriyowai_/status/1698994523278635098/photo/1): [みなはむ](https://x.com/manuhamu?lang=en)
