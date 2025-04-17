@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[custom kizuna generator](https://custom-kizuna-rust.onrender.com): for csc 363, backend written in rust
+[custom kizuna generator](https://kizuna-maker.mooo.com): for csc 363, backend written in rust
 
 [profile picture](https://x.com/Siritoriyowai_/status/1698994523278635098/photo/1): [みなはむ](https://x.com/manuhamu?lang=en)
